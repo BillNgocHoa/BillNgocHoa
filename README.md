@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillNgocHoa
 - 👀 I’m interested in traveling and playing sports.
-- 🌱 I’m currently learning SE, OOP, TCM.
+- 🌱 I’m currently learning SE, OOP, TMC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at nnbillmedia@gmail.com
 
